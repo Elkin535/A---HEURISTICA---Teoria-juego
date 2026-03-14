@@ -89,8 +89,8 @@ Este es un problema de optimización. La heurística aquí es: "Desde donde esto
 👉 Ir a [viajantecomercio.ipynb](https://colab.research.google.com/drive/1vT7nWTumyqy8-mb9D5xgfQ69qWlT57kS?usp=sharing)
 ----------------------------------------
 
-2. Manhattan vs. Euclídea (La "Forma" de la búsqueda)
-Para que veas algo realmente "bonito" y educativo, podemos comparar cómo cambia la mancha de expansión de un algoritmo según la heurística.
+EJEMPLO #2. Manhattan vs. Euclídea (La "Forma" de la búsqueda)
+podemos comparar cómo cambia la mancha de expansión de un algoritmo según la heurística.
 
 Manhattan: Explora en forma de "diamante" (cuadrado rotado).
 Euclídea: Explora en forma de "círculo".
