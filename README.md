@@ -55,7 +55,9 @@ X = obstáculo
 A* buscará el camino más corto evitando obstáculos.
 
 ejemplo:
-ir a 
+
+[Ir al Colab A*]([https://colab.research.google.com/tu_link](https://colab.research.google.com/drive/19FCcajeWRCiwZagbx92gF_AGYZHeX7Z9?usp=sharing))
+
 ----------------------
 
 -------------------------------------
