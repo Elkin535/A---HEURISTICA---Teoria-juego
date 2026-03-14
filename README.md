@@ -132,3 +132,19 @@ recompensas
 
 Los jugadores buscan maximizar su ganancia.
 
+Ejemplo 1: El Dilema del Prisionero (Simulación de "Evolución de Confianza")
+Dos sospechosos son arrestados. Si ambos callan (cooperan), tienen penas bajas. Si uno delata (traiciona), sale libre y el otro va años a prisión. Si ambos delatan, ambos tienen penas medias.
+ABRIR AQUI -> [prisionero](https://colab.research.google.com/drive/1y18LEaikOgIN2wQSRenGFQWSz2nhRPIz?usp=sharing)
+
+Ejemplo 2: Halcón vs. Paloma (Evolución Biológica)
+Este juego explica por qué en la naturaleza no todos son agresivos.
+Halcones: Siempre pelean por comida.
+Palomas: Comparten o huyen si hay pelea.
+Si hay muchos halcones, se lastiman entre ellos y las palomas prosperan. Si hay muchas palomas, un solo halcón se hace rico.
+ABRIR AQUI -> [Halcón vs. Paloma](https://colab.research.google.com/drive/1dHv1kyVpH2x29GUzvlndfIGraw9RFq78?usp=sharing)
+
+
+Ejemplo 3: Guerra de Precios (Duopolio)
+Dos tiendas (A y B) deciden si mantener precios altos o bajarlos. Si una baja precios, se lleva a todos los clientes, pero si ambas los bajan, terminan perdiendo dinero. Es visualmente similar al Dilema del Prisionero, pero aplicado a negocios.
+ABRIR AQUI -> [La Guerra de Precios](https://colab.research.google.com/drive/15ovbGBVq7KTc775EAd1TIKQLgc6zpe5x?usp=sharing)
+
