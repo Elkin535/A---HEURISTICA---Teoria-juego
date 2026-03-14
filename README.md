@@ -83,45 +83,26 @@ GPS no prueba todas las rutas, usa estimaciones.
 
 La heurística calcula un valor aproximado:
 
-**Ejemplo:**
+EJEMPLO #1. El Viajante de Comercio (Heurística: Vecino más Cercano)
+Este es un problema de optimización. La heurística aquí es: "Desde donde estoy, ve a la ciudad más cercana que no haya visitado". Es fascinante ver cómo se van trazando las líneas.
+-----------------------------------------
+👉 Ir a [viajantecomercio.ipynb](https://colab.research.google.com/drive/1vT7nWTumyqy8-mb9D5xgfQ69qWlT57kS?usp=sharing)
+----------------------------------------
 
-distancia entre dos puntos.
+2. Manhattan vs. Euclídea (La "Forma" de la búsqueda)
+Para que veas algo realmente "bonito" y educativo, podemos comparar cómo cambia la mancha de expansión de un algoritmo según la heurística.
 
-h(n) = |x_1-x_2| + |y_1-y_2|
+Manhattan: Explora en forma de "diamante" (cuadrado rotado).
+Euclídea: Explora en forma de "círculo".
 
-Esto se llama distancia Manhattan.
-
-Ejemplo 1 de heurística (GPS)
-
-El GPS estima:
-
-distancia en línea recta
-
-tiempo aproximado
-
-</> Python:
-----------------------------------
-def heuristica_distancia(x1,y1,x2,y2):
-    return abs(x1-x2)+abs(y1-y2)
-
-print(heuristica_distancia(0,0,4,4))
----------------------------------
-
-Ejemplo 2 de heurística (ajedrez)
-
-Una IA de ajedrez evalúa:
-
-* piezas restantes
-* control del tablero
-* posición del rey
-
-Ejemplo simple en Python:
--------------------------------
-mirar ejemplo en el repositorio.
------------------------------
+Este código genera un mapa vacío y verás cómo la heurística "dirige" el crecimiento de forma orgánica.
+----------------------------------------
+👉 Ir a [Manhattan.ipynb](https://colab.research.google.com/drive/14Z9x28-ttsX3XL9zC9CtVWEz7YD5PGW3?usp=sharing)
+----------------------------------------
 
 -----------------------------------------
 **3. Teoría de Juegos**
+
 ¿Qué es?
 
 La teoría de juegos estudia cómo toman decisiones los jugadores cuando sus decisiones afectan a otros.
