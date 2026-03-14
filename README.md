@@ -54,11 +54,9 @@ X = obstáculo
 
 A* buscará el camino más corto evitando obstáculos.
 
-ejemplo:
+Si deseas probar el algoritmo directamente en línea:
 
-[Ir al Colab A*]([https://colab.research.google.com/tu_link](https://colab.research.google.com/drive/19FCcajeWRCiwZagbx92gF_AGYZHeX7Z9?usp=sharing))
-
-----------------------
+👉 [Ir al Colab A*]([https://colab.research.google.com/tu_link](https://colab.research.google.com/drive/19FCcajeWRCiwZagbx92gF_AGYZHeX7Z9?usp=sharing))
 
 -------------------------------------
 -------------------------------------
