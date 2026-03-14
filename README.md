@@ -56,7 +56,7 @@ A* buscará el camino más corto evitando obstáculos.
 
 Si deseas probar el algoritmo directamente en línea:
 
-👉 [Ir al Colab A*]([[astar_animado_py.ipynb](https://colab.research.google.com/drive/19FCcajeWRCiwZagbx92gF_AGYZHeX7Z9?usp=sharing)])
+👉 [Ir al Colab A*]([astar_animado_py.ipynb](https://colab.research.google.com/drive/19FCcajeWRCiwZagbx92gF_AGYZHeX7Z9?usp=sharing])
 
 -------------------------------------
 -------------------------------------
